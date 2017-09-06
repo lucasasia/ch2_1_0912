@@ -9,7 +9,8 @@ public class Main {
             System.out.print("Input i=");
             i=sc.nextInt();
             System.out.println("i="+i);
-            System.out("This project is OK!")
+            System.out.println("This project is OK!");
+
 
     }
 }
