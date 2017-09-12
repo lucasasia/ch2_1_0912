@@ -10,6 +10,10 @@ public class Main {
             i=sc.nextInt();
             System.out.println("i="+i);
             System.out.println("This project is OK!");
+            for(i=1;i<=10;i++)
+            {
+                System.out.println(i);
+            }
 
 
     }
