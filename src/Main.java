@@ -12,7 +12,8 @@ public class Main {
             System.out.println("This project is OK!");
             for(i=1;i<=10;i++)
             {
-                System.out.println(i);
+                //System.out.println(i);
+                System.out.printf("%d",i);
             }
 
 
